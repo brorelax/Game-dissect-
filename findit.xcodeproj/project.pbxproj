@@ -1359,7 +1359,7 @@
 			};
 			name = Release;
 		};
-/* End XCBuildConfiguration section */
+/* End XCBuildConfiguration section1 */
 
 /* Begin XCConfigurationList section */
 		0223FEAA1A5820D700E73147 /* Build configuration list for PBXProject "findit" */ = {
